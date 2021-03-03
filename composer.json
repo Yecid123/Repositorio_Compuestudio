@@ -1,0 +1,28 @@
+{
+    "name": "Yecid Rendón",
+    "description": "Pagina con PHP",
+    "license": "MIT",
+    "homepage": "https://www.google.com",
+    "keywords": [
+        "KEY",
+        "ETC"
+    ],
+    "authors": [{
+        "name": "Yecid Rendón",
+        "email": "yecidrendon95@gmail.com",
+        "role": "Developer"
+    }],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "~7.0"
+    },
+    "require-dev": {},
+
+
+    "config": {
+        "disable-tls": true,
+        "secure-http": false
+    }
+
+
+}
